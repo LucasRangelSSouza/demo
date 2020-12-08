@@ -1,6 +1,6 @@
 {
   "usuarios": [
-    { "email": "tec-empresa@example.com" , "senha": "75f33e6eebce7012b8c74a889fa8a7ed", "insert": {"insert":"insert"}
+    { "email": "tec-empresa@example.com" , "senha": "75f33e6eebce7012b8c74a889fa8a7ed", "insert": {"insert":"insert"},
 	{ "email": "func-cliente@example.com" , "senha": "cc7a84634199040d54376793842fe035", "insert": {"insert":"insert"}
   ]
 }
